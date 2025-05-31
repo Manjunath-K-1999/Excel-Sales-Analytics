@@ -9,7 +9,7 @@ This project focuses on building a professional Sales Analytics dashboard using 
 1. Analyze customer performance through a detailed report.
    📄 [Customer Performance Report](https://github.com/Manjunath-K-1999/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
 2. Compare actual market performance against sales targets.
-   📄 [Market vs. Target Report](Market_Performance_vs_Target_Report.pdf)
+   📄 [Market vs. Target Report](https://github.com/Manjunath-K-1999/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 
 ---
 
